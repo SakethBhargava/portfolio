@@ -14,7 +14,7 @@ export const About = () => {
 
             <p className="text-muted-foreground">
               I am a passionate Web Developer specializing in the MERN stack,
-              dedicated to architecting secure and scalable web solutions.I
+              dedicated to architecting secure and scalable web solutions. I
               build robust architectures that prioritize security and seamless
               user experiences.
             </p>
