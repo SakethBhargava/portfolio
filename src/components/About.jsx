@@ -13,18 +13,15 @@ export const About = () => {
             <h3 className="text-xl font-semibold">Code. Create. Innovate.</h3>
 
             <p className="text-muted-foreground">
-              I am a passionate Web Developer specializing in the MERN stack,
-              dedicated to architecting secure and scalable web solutions. I
-              build robust architectures that prioritize security and seamless
-              user experiences.
+              Full-Stack Developer building fast, secure, and scalable web apps. I connect solid backend systems with clean, responsive user interfaces, always staying on top of modern JavaScript tools and best practices.
             </p>
 
-            <p className="text-muted-foreground">
+            {/* <p className="text-muted-foreground">
               I engineer high-performance web applications by bridging complex
               backend logic with pixel-perfect frontend design using MERN Stack,
               and I'm constantly learning new technologies and techniques to
               stay at the forefront of the ever-evolving web landscape.
-            </p>
+            </p> */}
 
             <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
               <a href="#contact" className="cosmic-button">

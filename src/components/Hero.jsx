@@ -21,14 +21,12 @@ export const Hero = () => {
           </h1>
 
           <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto opacity-0 animate-fade-in-delay-3">
-            I love building web applications with modern technologies.
-            Specializing in front-end development, I build interfaces that are
-            both functional and beautiful.
+           Full-Stack Developer building fast, scalable web applications and clean, intuitive digital experiences.
           </p>
 
           <div className="pt-3 opacity-0 animate-fade-in-delay-4">
             <a href="#projects" className="cosmic-button">
-              View my work
+            Browse Projects
             </a>
           </div>
         </div>
